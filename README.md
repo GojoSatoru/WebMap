@@ -13,7 +13,7 @@ A Python tool used to automate the execution of the following tools : Nmap , Nik
 * adding functions to not reprint the same underscore line statements
 * add function that prints out one menu but replaces the title and options accordingly with choice
 * function for checking the enviroment instead of checking it multiple times
-* more to come idk
+* adding input allowance like 'e' instead of always 'E' and for every other user input...
 
 <a href="https://ibb.co/b7LBFqC"><img src="https://i.ibb.co/M9pVfWt/Kazam-screenshot-00001.png" alt="WebMap Screenshot" border="0">
 <br />
