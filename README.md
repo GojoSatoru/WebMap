@@ -8,8 +8,8 @@ A Python tool used to automate the execution of the following tools : Nmap , Nik
 * Automate Web Penetration Using WebMap
 * Tested on Linux and Unix with Python 3
 ------------------------------------
-#changes or would like to change
-#thank you Anteste for making this, this is part of my dream contributing to things like these
+# changes or would like to change
+### thank you Anteste for making this, this is part of my dream contributing to things like these
 * adding functions to not reprint the same underscore line statements
 * add function that prints out one menu but replaces the title and options accordingly with choice
 * function for checking the enviroment instead of checking it multiple times
